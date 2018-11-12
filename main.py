@@ -1,5 +1,5 @@
 def main():
-	languages = ["C", "C++", "Perl", "Python", "Rubi", "MatLab"]
+	languages = ["C", "C++", "Perl", "Python", "Rubi", "MatLab", "Java", "PHP"]
 	for x in languages:
 		print(x);
 	
